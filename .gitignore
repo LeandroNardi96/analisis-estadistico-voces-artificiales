@@ -13,7 +13,4 @@ voz calibracion
 test_modified_zcr.ipynb
 test_plot.ipynb
 voces_test_rms.ods
-sample_population_output.ipynb
-mann_whitnet_test_output.ipynb
-preprocess_regression_output.ipynb
-regression_output.ipynb
+notebook-output
