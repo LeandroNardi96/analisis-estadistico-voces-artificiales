@@ -29,10 +29,21 @@ nb_preprocess_regression = pm.execute_notebook(
 )
 
 # %%
-# Regression
-nb_regression = pm.execute_notebook(
-   'regression.ipynb',
-   r'notebook-output\regression_output.ipynb',
+# Parametric Regression
+nb_paraetric_regression = pm.execute_notebook(
+   'parametric_regression.ipynb',
+   r'notebook-output\parametric_regression_output.ipynb',
    kernel_name='python',
    log_out=True
 )
+
+# %%
+# No Parametric Regression
+nb_no_paraetric_regression = pm.execute_notebook(
+   'no_parametric_regression.ipynb',
+   r'notebook-output\no_parametric_regression_output.ipynb',
+   kernel_name='python',
+   log_out=True
+)
+
+
