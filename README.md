@@ -212,5 +212,3 @@ Este proyecto consta para la finalización de mi tesis de grado y no tiene fines
 <br>
 
 ### <p align="center"> Made with &#x2764; for Everyone</p>
-
-<p align="center"><img src="https://www.pngkey.com/png/detail/96-967577_ai-artificial-intelligence-transparent-background.png" width='200'></p>
