@@ -39,11 +39,11 @@ nb_paraetric_regression = pm.execute_notebook(
 
 # %%
 # No Parametric Regression
-nb_no_paraetric_regression = pm.execute_notebook(
-   'no_parametric_regression.ipynb',
-   r'notebook-output\no_parametric_regression_output.ipynb',
-   kernel_name='python',
-   log_out=True
-)
+# nb_no_paraetric_regression = pm.execute_notebook(
+#    'no_parametric_regression.ipynb',
+#    r'notebook-output\no_parametric_regression_output.ipynb',
+#    kernel_name='python',
+#    log_out=True
+# )
 
 
