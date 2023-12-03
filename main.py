@@ -45,5 +45,3 @@ nb_paraetric_regression = pm.execute_notebook(
 #    kernel_name='python',
 #    log_out=True
 # )
-
-
